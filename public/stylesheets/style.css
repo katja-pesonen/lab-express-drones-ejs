@@ -6,3 +6,11 @@ body {
 a {
   color: #00b7ff;
 }
+
+#home-div {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+}
